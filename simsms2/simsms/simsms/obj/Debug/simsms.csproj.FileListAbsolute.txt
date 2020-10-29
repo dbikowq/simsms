@@ -1,0 +1,260 @@
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\bin\Debug\simsms.exe.config
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\bin\Debug\simsms.exe
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\bin\Debug\simsms.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\simsms.csprojAssemblyReference.cache
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\MainWindow.g.cs
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\App.g.cs
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\simsms_MarkupCompile.cache
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\simsms_MarkupCompile.lref
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\MainWindow.baml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\simsms.g.resources
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\simsms.Properties.Resources.resources
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\simsms.csproj.GenerateResource.cache
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\simsms.csproj.CoreCompileInputs.cache
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\simsms.exe
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\simsms.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\simsms.csproj.CopyComplete
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\login.g.cs
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\obj\Debug\login.baml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\bin\Debug\EPPlus.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms\simsms\bin\Debug\EPPlus.xml
+C:\Users\win\Desktop\fl\simsms\simsms\bin\Debug\simsms.exe.config
+C:\Users\win\Desktop\fl\simsms\simsms\bin\Debug\simsms.exe
+C:\Users\win\Desktop\fl\simsms\simsms\bin\Debug\simsms.pdb
+C:\Users\win\Desktop\fl\simsms\simsms\bin\Debug\EPPlus.dll
+C:\Users\win\Desktop\fl\simsms\simsms\bin\Debug\HtmlAgilityPack.dll
+C:\Users\win\Desktop\fl\simsms\simsms\bin\Debug\EPPlus.xml
+C:\Users\win\Desktop\fl\simsms\simsms\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\win\Desktop\fl\simsms\simsms\bin\Debug\HtmlAgilityPack.xml
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\simsms.csprojAssemblyReference.cache
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\login.g.cs
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\MainWindow.g.cs
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\App.g.cs
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\simsms_MarkupCompile.cache
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\simsms_MarkupCompile.lref
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\login.baml
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\MainWindow.baml
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\simsms.g.resources
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\simsms.Properties.Resources.resources
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\simsms.csproj.GenerateResource.cache
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\simsms.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\simsms.csproj.CopyComplete
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\simsms.exe
+C:\Users\win\Desktop\fl\simsms\simsms\obj\Debug\simsms.pdb
+C:\Users\win\Desktop\fl\simsms\simsms\bin\Debug\TeleSharp.TL.dll
+C:\Users\win\Desktop\fl\simsms\simsms\bin\Debug\TLSharp.Core.dll
+C:\Users\win\Desktop\fl\simsms\simsms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\win\Desktop\fl\simsms\simsms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\client_secret.json
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\simsms.exe.config
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\simsms.exe
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\simsms.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\EPPlus.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\TeleSharp.TL.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\TLSharp.Core.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\EPPlus.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\simsms.csprojAssemblyReference.cache
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\login.g.cs
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\MainWindow.g.cs
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\App.g.cs
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\simsms_MarkupCompile.cache
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\simsms_MarkupCompile.lref
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\login.baml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\MainWindow.baml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\simsms.g.resources
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\simsms.Properties.Resources.resources
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\simsms.csproj.GenerateResource.cache
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\simsms.csproj.CoreCompileInputs.cache
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\simsms.csproj.CopyComplete
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\simsms.exe
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms\simsms\obj\Debug\simsms.pdb
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\client_secret.json
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\simsms.exe.config
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\simsms.exe
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\simsms.pdb
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\EPPlus.dll
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.dll
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.dll
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.dll
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.dll
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\TeleSharp.TL.dll
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\TLSharp.Core.dll
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\EPPlus.xml
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.pdb
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.xml
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.xml
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.pdb
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.xml
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.xml
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\simsms.csprojAssemblyReference.cache
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\login.g.cs
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\MainWindow.g.cs
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\App.g.cs
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\simsms_MarkupCompile.cache
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\simsms_MarkupCompile.lref
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\login.baml
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\MainWindow.baml
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\simsms.g.resources
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\simsms.Properties.Resources.resources
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\simsms.csproj.GenerateResource.cache
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\simsms.csproj.CoreCompileInputs.cache
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\simsms.csproj.CopyComplete
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\simsms.exe
+C:\Users\win\Desktop\fl\simsms2\simsms\simsms\obj\Debug\simsms.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\client_secret.json
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\simsms.exe.config
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\simsms.exe
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\simsms.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\EPPlus.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\TeleSharp.TL.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\TLSharp.Core.dll
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\EPPlus.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.csprojAssemblyReference.cache
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\login.g.cs
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\MainWindow.g.cs
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\App.g.cs
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms_MarkupCompile.cache
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms_MarkupCompile.lref
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\login.baml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\MainWindow.baml
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.g.resources
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.Properties.Resources.resources
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.csproj.GenerateResource.cache
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.csproj.CoreCompileInputs.cache
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.csproj.CopyComplete
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.exe
+C:\Users\dbiko\OneDrive\Рабочий стол\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.pdb
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\client_secret.json
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\simsms.exe.config
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\simsms.exe
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\simsms.pdb
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\EPPlus.dll
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.dll
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.dll
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.dll
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\TeleSharp.TL.dll
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\TLSharp.Core.dll
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\EPPlus.xml
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.pdb
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.xml
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.xml
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.pdb
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.xml
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.csprojAssemblyReference.cache
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\login.g.cs
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\MainWindow.g.cs
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\App.g.cs
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms_MarkupCompile.cache
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms_MarkupCompile.lref
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\login.baml
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\MainWindow.baml
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.g.resources
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.Properties.Resources.resources
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.csproj.GenerateResource.cache
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.csproj.CoreCompileInputs.cache
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.csproj.CopyComplete
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.exe
+C:\Users\kekyou\Desktop\fl\simsms2\simsms2\simsms\simsms\obj\Debug\simsms.pdb
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\client_secret.json
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\simsms.exe.config
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\simsms.exe
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\simsms.pdb
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\EPPlus.dll
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.dll
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.dll
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.dll
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.dll
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\TeleSharp.TL.dll
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\TLSharp.Core.dll
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\EPPlus.xml
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.pdb
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.xml
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.Auth.xml
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.pdb
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.Core.xml
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\HtmlAgilityPack.xml
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\simsms.csprojAssemblyReference.cache
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\login.g.cs
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\MainWindow.g.cs
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\App.g.cs
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\simsms_MarkupCompile.cache
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\simsms_MarkupCompile.lref
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\login.baml
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\MainWindow.baml
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\simsms.g.resources
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\simsms.Properties.Resources.resources
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\simsms.csproj.GenerateResource.cache
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\simsms.csproj.CoreCompileInputs.cache
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\simsms.csproj.CopyComplete
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\simsms.exe
+C:\Users\kekyou\Desktop\simsms2\simsms\simsms\obj\Debug\simsms.pdb
